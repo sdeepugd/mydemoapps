@@ -1,0 +1,15 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions.Generator-4.1.1",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "queueTrigger",
+      "connection": "syncstatestorageaccount_STORAGE",
+      "queueName": "syncstateq",
+      "name": "myQueueItem"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/api.dll",
+  "entryPoint": "Microsoft.TimeoutQueueTrigger.Run"
+}

@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "syncstatestorageaccount_STORAGE": "DefaultEndpointsProtocol=https;AccountName=syncstatestorageaccount;AccountKey=zWTRSm+F1GDySHWHfajppumb4Z0ryTI5Ed2OJBmPk9pck6nd+ye6makyK7jZJFQuIrzQnrTbg/Ok+AStVAEX4Q==;EndpointSuffix=core.windows.net"
+  }
+}

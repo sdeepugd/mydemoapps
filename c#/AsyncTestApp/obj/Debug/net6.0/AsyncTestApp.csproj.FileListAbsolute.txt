@@ -1,0 +1,15 @@
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\bin\Debug\net6.0\AsyncTestApp.exe
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\bin\Debug\net6.0\AsyncTestApp.deps.json
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\bin\Debug\net6.0\AsyncTestApp.runtimeconfig.json
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\bin\Debug\net6.0\AsyncTestApp.dll
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\bin\Debug\net6.0\AsyncTestApp.pdb
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\obj\Debug\net6.0\AsyncTestApp.csproj.AssemblyReference.cache
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\obj\Debug\net6.0\AsyncTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\obj\Debug\net6.0\AsyncTestApp.AssemblyInfoInputs.cache
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\obj\Debug\net6.0\AsyncTestApp.AssemblyInfo.cs
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\obj\Debug\net6.0\AsyncTestApp.csproj.CoreCompileInputs.cache
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\obj\Debug\net6.0\AsyncTestApp.dll
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\obj\Debug\net6.0\refint\AsyncTestApp.dll
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\obj\Debug\net6.0\AsyncTestApp.pdb
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\obj\Debug\net6.0\AsyncTestApp.genruntimeconfig.cache
+C:\Users\deepak.MININT-IDR02K3\source\repos\AsyncTestApp\obj\Debug\net6.0\ref\AsyncTestApp.dll
